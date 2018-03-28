@@ -1,0 +1,21 @@
+{
+    "name": "ibobo/hello",
+    "description": "test",
+    "type": "library",
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ZhuYangBo",
+            "email": "741841287@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+	"autoload": {
+        "psr-4": {
+            "Hello\\": "src/"
+        }
+    }
+}
