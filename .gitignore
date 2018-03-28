@@ -2,4 +2,4 @@ vendor/*
 
 composer.lock
 
-*.php
+test.php
